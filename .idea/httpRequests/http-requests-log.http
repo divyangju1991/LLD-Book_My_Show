@@ -1,0 +1,16 @@
+POST http://localhost:18080/api/v1/book
+
+<> 2022-07-27T110107.400.json
+
+###
+
+POST http://localhost:18080/api/v1/book
+
+<> 2022-07-27T105248.500.json
+
+###
+
+POST http://localhost/api/v1/book
+
+###
+
